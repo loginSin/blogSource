@@ -16,5 +16,7 @@ tags:
 比如：
 <a href="https://raw.githubusercontent.com/loginSin/blogSource/master/images/test.jpg">女神</a>
 
-原始的md文件：
-<a href="markdown-添加图片和超链接.md">点我啊</a>
+注：如果有自己的服务器来保存相关资源最好，但是如果像我一样使用github来保存的话，就路径就必须是在raw下，具体原因目前也没有搞明白，如果有大神知晓，请告诉我，上方有我的邮箱^_^
+
+详情可以参照原始的md文件：
+<a href="https://raw.githubusercontent.com/loginSin/blogSource/master/sourceCode/markdown-%E6%B7%BB%E5%8A%A0%E5%9B%BE%E7%89%87%E5%92%8C%E8%B6%85%E9%93%BE%E6%8E%A5.md">原始md文件</a>
