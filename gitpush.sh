@@ -5,6 +5,6 @@ if [ ! -n "$1" ]
 	echo "you have to input something"
 else
 	git add .
-	git commit -m $1
+	git commit -m "$1"
 	git push
 fi
