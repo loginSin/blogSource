@@ -1,5 +1,8 @@
 #!/bin/bash
 
+#帮助管理本地的mysql数据库，提供开启、停止、重启、查看当前状态的功能
+#需要输入对应的参数start/stop/restart/status
+
 function mStart(){
 	echo "mysql is starting"
 	sudo /usr/local/mysql/support-files/mysql.server start
